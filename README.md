@@ -1,1 +1,1 @@
-# Hmes-Housing-Price-Prediction
+# Ames-Housing-Price-Prediction
